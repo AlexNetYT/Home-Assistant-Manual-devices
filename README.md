@@ -1,4 +1,6 @@
 # Home-Assistant-Manual-devices
+# Если у вас возникли проблемы при использовании, обязательно создайте issue, и я постараюсь ответить вам как можно быстрее
+##### If you have any problems while using it, be sure to create an issue and I will try to answer you as quickly as possible
 ## RU Готовая библиотека привязки и создания своих устройств через MQTT к Home Assistant
 
 В репозитории представлено два файла [main.pyw](https://github.com/AlexNetYT/Home-Assistant-Manual-devices/edit/main/README.md#mainpy) и [PC_Modules.py](https://github.com/AlexNetYT/Home-Assistant-Manual-devices/edit/main/README.md#pc_modulespy)
