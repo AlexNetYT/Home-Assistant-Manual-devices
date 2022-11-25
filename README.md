@@ -42,19 +42,19 @@ classes.append(Your_Class_Name)
 
 The repository contains two files main.pyw and PC_Modules.py
 The settings for each are below:
-#Requirements
+# Requirements
 ````python
 pip install json
 ````
 ````python
 pip install paho
 ````
-##Main.py:
+## Main.py:
 You only need to configure your MQTT broker in this file:
 
 brocker = ['localhost', "1883"] #Replace localhost with the IP of your MQTT broker
 
-##PC_Modules.py:
+## PC_Modules.py:
 You do not need to configure anything here, this file is used to add new devices (modules) to your home assistant
 #### Class setting:
 ```python
