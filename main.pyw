@@ -1,7 +1,6 @@
 
 # Importing the library
-import psutil
-import GPUtil
+
 import PC_Modules
 from PC_Modules import *
 import json

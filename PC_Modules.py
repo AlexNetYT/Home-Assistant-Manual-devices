@@ -1,7 +1,5 @@
 #--------IMPORTS--------
-import socket
-import psutil
-import GPUtil
+
 
 #-------VARIABLES-------
 classes = [] #----VARIABLE OF ALL CLASSES IN PC_Modules file----
